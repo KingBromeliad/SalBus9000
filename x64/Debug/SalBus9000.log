@@ -1,0 +1,62 @@
+﻿  Fuel.cpp
+c:\sfml1\salbus9000\fuel.cpp(13): warning C4305: 'argomento': troncamento da 'double' a 'float'
+  GameInfo.cpp
+c:\sfml1\salbus9000\gameinfo.cpp(52): warning C4305: 'argomento': troncamento da 'double' a 'float'
+  Main.cpp
+c:\sfml1\salbus9000\main.cpp(25): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(26): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(51): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(102): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(144): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(155): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(190): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\main.cpp(193): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+  Planet.cpp
+c:\sfml1\salbus9000\planet.cpp(29): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\planet.cpp(55): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\planet.cpp(68): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  spaceship.cpp
+c:\sfml1\salbus9000\spaceship.cpp(14): warning C4305: '=': troncamento da 'double' a 'float'
+c:\sfml1\salbus9000\spaceship.cpp(62): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\spaceship.cpp(67): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\sfml1\salbus9000\spaceship.cpp(69): warning C4244: 'argomento': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\spaceship.cpp(72): warning C4244: '+=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\spaceship.cpp(75): warning C4244: '+=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\spaceship.cpp(93): warning C4305: '-=': troncamento da 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\spaceship.cpp(96): warning C4305: '+=': troncamento da 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\spaceship.cpp(99): warning C4305: '-=': troncamento da 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\sfml1\salbus9000\spaceship.cpp(102): warning C4305: '+=': troncamento da 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+  Generazione del codice in corso...
+  SalBus9000.vcxproj -> C:\SFML1\x64\Debug\SalBus9000.exe

@@ -1,0 +1,29 @@
+﻿  Main.cpp
+C:\SFML1\SalBus9000\Main.cpp(27,25): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(27,16): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(28,39): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(28,26): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(70,43): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(70,30): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(113,42): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(113,29): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(175,44): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(175,31): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(186,45): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(186,32): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(187,64): warning C4244:  'argomento': conversione da 'int' a 'T'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(187,64): warning C4244:         with
+C:\SFML1\SalBus9000\Main.cpp(187,64): warning C4244:         [
+C:\SFML1\SalBus9000\Main.cpp(187,64): warning C4244:             T=float
+C:\SFML1\SalBus9000\Main.cpp(187,64): warning C4244:         ]
+C:\SFML1\SalBus9000\Main.cpp(228,25): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(233,60): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(298,42): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(298,29): warning C4244:  'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\SFML1\SalBus9000\Main.cpp(335,38): warning C4244:  'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  2 of 610 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  SalBus9000.vcxproj -> C:\SFML1\x64\Release\SalBus9000.exe
